@@ -1,0 +1,508 @@
+city,county,population_2022,median_income,profile
+Roanoke,Denton,9943,98027,https://directory.tml.org/profile/city/812
+Sanger,Denton,9721,98027,https://directory.tml.org/profile/city/630
+Lago Vista,Travis,9692,84519,https://directory.tml.org/profile/city/1022
+Vidor,Orange,9678,65908,https://directory.tml.org/profile/city/530
+Helotes,Bexar,9597,63014,https://directory.tml.org/profile/city/619
+Woodway,McLennan,9585,58524,https://directory.tml.org/profile/city/572
+Bridge City,Orange,9574,65908,https://directory.tml.org/profile/city/1359
+Dayton,Liberty,9375,57174,https://directory.tml.org/profile/city/1231
+Kennedale,Tarrant,9329,71399,https://directory.tml.org/profile/city/1007
+Jacinto City,Harris,9318,63539,https://directory.tml.org/profile/city/984
+Commerce,Hunt,9282,58326,https://directory.tml.org/profile/city/1200
+Whitehouse,Smith,9154,62903,https://directory.tml.org/profile/city/554
+Liberty Hill,Williamson,9099,96653,https://directory.tml.org/profile/city/472
+Mont Belvieu,Chambers,8946,89767,https://directory.tml.org/profile/city/898
+Bee Cave,Travis,8853,84519,https://directory.tml.org/profile/city/1440
+Aransas Pass,Nueces,8779,59337,https://directory.tml.org/profile/city/1291
+Wharton,Wharton,8736,56522,https://directory.tml.org/profile/city/550
+Joshua,Johnson,8667,76226,https://directory.tml.org/profile/city/995
+Liberty,Liberty,8636,57174,https://directory.tml.org/profile/city/1049
+Hillsboro,Hill,8548,52495,https://directory.tml.org/profile/city/1168
+Cleveland,Liberty,8503,57174,https://directory.tml.org/profile/city/1187
+Lucas,Collin,8461,102119,https://directory.tml.org/profile/city/463
+Prairie View,Waller,8420,65437,https://directory.tml.org/profile/city/781
+Navasota,Grimes,8417,52540,https://directory.tml.org/profile/city/920
+Richland Hills,Tarrant,8407,71399,https://directory.tml.org/profile/city/418
+Kaufman,Kaufman,8388,73660,https://directory.tml.org/profile/city/1001
+Los Fresnos,Cameron,8215,46436,https://directory.tml.org/profile/city/848
+Cuero,DeWitt,8106,54279,https://directory.tml.org/profile/city/1222
+Kirby,Bexar,8087,63014,https://directory.tml.org/profile/city/1012
+Floresville,Wilson,8050,78794,https://directory.tml.org/profile/city/1079
+Aubrey,Denton,7966,98027,https://directory.tml.org/profile/city/1300
+Lake Dallas,Denton,7830,98027,https://directory.tml.org/profile/city/1025
+Hitchcock,Galveston,7642,77627,https://directory.tml.org/profile/city/953
+Jersey Village,Harris,7602,63539,https://directory.tml.org/profile/city/990
+Alamo Heights,Bexar,7530,63014,https://directory.tml.org/profile/city/1717
+River Oaks,Tarrant,7440,71399,https://directory.tml.org/profile/city/810
+Jasper,Jasper,7423,50038,https://directory.tml.org/profile/city/988
+Marble Falls,Burnet,7423,72510,https://directory.tml.org/profile/city/865
+Lacy-Lakeview,McLennan,7293,58524,https://directory.tml.org/profile/city/1019
+Gonzales,Gonzales,7196,48164,https://directory.tml.org/profile/city/1116
+Dripping Springs,Hays,7057,79336,https://directory.tml.org/profile/city/617
+Sealy,Austin,6956,68150,https://directory.tml.org/profile/city/647
+Josephine,Collin,6944,102119,https://directory.tml.org/profile/city/994
+Willis,Montgomery,6939,87831,https://directory.tml.org/profile/city/561
+Mexia,Limestone,6868,50381,https://directory.tml.org/profile/city/888
+Silsbee,Hardin,6864,67183,https://directory.tml.org/profile/city/661
+La Feria,Cameron,6805,46436,https://directory.tml.org/profile/city/1021
+Nolanville,Bell,6745,58878,https://directory.tml.org/profile/city/935
+Keene,Johnson,6728,76226,https://directory.tml.org/profile/city/1002
+Burnet,Burnet,6710,72510,https://directory.tml.org/profile/city/1370
+Lindale,Smith,6660,62903,https://directory.tml.org/profile/city/1050
+Carthage,Panola,6562,54244,https://directory.tml.org/profile/city/1386
+Lavon,Collin,6517,102119,https://directory.tml.org/profile/city/428
+Gun Barrel City,Henderson,6506,50348,https://directory.tml.org/profile/city/1136
+Bulverde,Comal,6494,93487,https://directory.tml.org/profile/city/460
+Peñitas,Hidalgo,6340,44260,https://directory.tml.org/profile/city/1450
+Crockett,Houston,6307,45603,https://directory.tml.org/profile/city/1216
+Gladewater,Gregg,6230,57608,https://directory.tml.org/profile/city/1110
+White Oak,Gregg,6227,57608,https://directory.tml.org/profile/city/555
+Hempstead,Waller,6179,65437,https://directory.tml.org/profile/city/1157
+Van Alstyne,Grayson,6139,62678,https://directory.tml.org/profile/city/524
+Parker,Collin,6073,102119,https://directory.tml.org/profile/city/1765
+Krum,Denton,6062,98027,https://directory.tml.org/profile/city/426
+Edna,Jackson,6009,60666,https://directory.tml.org/profile/city/1268
+Oak Point,Denton,6009,98027,https://directory.tml.org/profile/city/939
+Everman,Tarrant,5998,71399,https://directory.tml.org/profile/city/1067
+Alvarado,Johnson,5910,76226,https://directory.tml.org/profile/city/1723
+Yoakum,Lavaca,5891,54421,https://directory.tml.org/profile/city/576
+Wake Village,Bowie,5841,52934,https://directory.tml.org/profile/city/533
+Wilmer,Dallas,5833,63549,https://directory.tml.org/profile/city/563
+Windcrest,Bexar,5799,63014,https://directory.tml.org/profile/city/606
+McGregor,McLennan,5763,58524,https://directory.tml.org/profile/city/876
+Elsa,Hidalgo,5664,44260,https://directory.tml.org/profile/city/1277
+Hutchins,Dallas,5614,63549,https://directory.tml.org/profile/city/971
+Justin,Denton,5597,98027,https://directory.tml.org/profile/city/998
+Luling,Caldwell,5545,60063,https://directory.tml.org/profile/city/854
+Brookshire,Waller,5533,65437,https://directory.tml.org/profile/city/620
+Rockdale,Milam,5529,53320,https://directory.tml.org/profile/city/816
+Sinton,San Patricio,5510,58227,https://directory.tml.org/profile/city/663
+Argyle,Denton,5503,98027,https://directory.tml.org/profile/city/1294
+Marlin,Falls,5474,46173,https://directory.tml.org/profile/city/868
+Rusk,Cherokee,5433,48664,https://directory.tml.org/profile/city/835
+Atlanta,Cass,5427,42896,https://directory.tml.org/profile/city/1299
+Cameron,Milam,5418,53320,https://directory.tml.org/profile/city/1378
+Sansom Park,Tarrant,5359,71399,https://directory.tml.org/profile/city/635
+Sandy Oaks[b],Bexar,5354,63014,https://directory.tml.org/profile/city/69559
+Nassau Bay,Harris,5164,63539,https://directory.tml.org/profile/city/918
+Center,Shelby,5147,43244,https://directory.tml.org/profile/city/412
+Giddings,Lee,5129,59469,https://directory.tml.org/profile/city/1108
+Port Isabel,Cameron,5108,46436,https://directory.tml.org/profile/city/773
+Hudson,Angelina,5107,50620,https://directory.tml.org/profile/city/964
+Terrell Hills,Bexar,5048,63014,https://directory.tml.org/profile/city/710
+Gilmer,Upshur,5029,51634,https://directory.tml.org/profile/city/1109
+Mineola,Wood,5017,53485,https://directory.tml.org/profile/city/893
+Progreso,Hidalgo,4952,44260,https://directory.tml.org/profile/city/1738
+Pilot Point,Denton,4886,98027,https://directory.tml.org/profile/city/760
+Morgan's Point Resort,Bell,4772,58878,https://directory.tml.org/profile/city/904
+Richwood,Brazoria,4760,82165,https://directory.tml.org/profile/city/807
+Lake Worth,Tarrant,4667,71399,https://directory.tml.org/profile/city/1033
+La Joya,Hidalgo,4660,44260,https://directory.tml.org/profile/city/1929
+Meadows Place,Fort Bend,4649,98070,https://directory.tml.org/profile/city/879
+Hallsville,Harrison,4644,56645,https://directory.tml.org/profile/city/1142
+Crandall,Kaufman,4641,73660,https://directory.tml.org/profile/city/1213
+Madisonville,Madison,4564,48251,https://directory.tml.org/profile/city/858
+Canton,Van Zandt,4561,59929,https://directory.tml.org/profile/city/1381
+Diboll,Angelina,4560,50620,https://directory.tml.org/profile/city/1245
+New Boston,Bowie,4550,52934,https://directory.tml.org/profile/city/925
+Hearne,Robertson,4538,50816,https://directory.tml.org/profile/city/1152
+Falfurrias,Brooks,4461,33460,https://directory.tml.org/profile/city/1069
+La Grange,Fayette,4449,64711,https://directory.tml.org/profile/city/1023
+McLendon-Chisholm,Rockwall,4431,120696,https://directory.tml.org/profile/city/1970
+Pittsburg,Camp,4416,51024,https://directory.tml.org/profile/city/764
+Ovilla,Ellis,4400,87698,https://directory.tml.org/profile/city/738
+Palacios,Matagorda,4357,50054,https://directory.tml.org/profile/city/461
+Caldwell,Burleson,4350,57469,https://directory.tml.org/profile/city/1375
+Garden Ridge,Comal,4334,93487,https://directory.tml.org/profile/city/1101
+Hunters Creek Village,Harris,4334,63539,https://directory.tml.org/profile/city/1438
+Rio Bravo,Webb,4326,50865,https://directory.tml.org/profile/city/406
+Whitesboro,Grayson,4291,62678,https://directory.tml.org/profile/city/609
+Mathis,San Patricio,4282,58227,https://directory.tml.org/profile/city/872
+Jourdanton,Atascosa,4260,57905,https://directory.tml.org/profile/city/996
+Spring Valley Village,Harris,4260,63539,https://directory.tml.org/profile/city/679
+Bellville,Austin,4209,68150,https://directory.tml.org/profile/city/1325
+Weston Lakes,Fort Bend,4192,98070,https://directory.tml.org/profile/city/34211
+Nash,Bowie,4166,52934,https://directory.tml.org/profile/city/917
+Smithville,Bastrop,4130,72809,https://directory.tml.org/profile/city/666
+Farmersville,Collin,4015,102119,https://directory.tml.org/profile/city/1072
+Wills Point,Van Zandt,3933,59929,https://directory.tml.org/profile/city/562
+Castle Hills,Bexar,3932,63014,https://directory.tml.org/profile/city/1387
+Sullivan City,Hidalgo,3903,44260,https://directory.tml.org/profile/city/1474
+Bunker Hill Village,Harris,3776,63539,https://directory.tml.org/profile/city/1369
+Columbus,Colorado,3714,62004,https://directory.tml.org/profile/city/1198
+Taylor Lake Village,Harris,3696,63539,https://directory.tml.org/profile/city/704
+Cockrell Hill,Dallas,3686,63549,https://directory.tml.org/profile/city/1191
+Shenandoah,Montgomery,3665,87831,https://directory.tml.org/profile/city/656
+San Diego,Duval,3655,37921,https://directory.tml.org/profile/city/628
+Shavano Park,Bexar,3626,63014,https://directory.tml.org/profile/city/655
+Groesbeck,Limestone,3622,50381,https://directory.tml.org/profile/city/1133
+West Columbia,Brazoria,3597,82165,https://directory.tml.org/profile/city/414
+Winnsboro,Wood,3562,53485,https://directory.tml.org/profile/city/565
+Sweeny,Brazoria,3556,82165,https://directory.tml.org/profile/city/698
+Clifton,Bosque,3513,56041,https://directory.tml.org/profile/city/1188
+Caddo Mills,Hunt,3502,58326,https://directory.tml.org/profile/city/55
+Chandler,Henderson,3476,50348,https://directory.tml.org/profile/city/1173
+Teague,Freestone,3455,48397,https://directory.tml.org/profile/city/705
+Eagle Lake,Colorado,3453,62004,https://directory.tml.org/profile/city/1256
+Kenedy,Karnes,3432,48470,https://directory.tml.org/profile/city/1006
+West Orange,Orange,3414,65908,https://directory.tml.org/profile/city/547
+Jarrell,Williamson,3410,96653,https://directory.tml.org/profile/city/353
+Haslet,Tarrant,3404,71399,https://directory.tml.org/profile/city/1149
+Magnolia,Montgomery,3349,87831,https://directory.tml.org/profile/city/859
+Hideaway,Smith,3296,62903,https://directory.tml.org/profile/city/363
+Port Aransas,Nueces,3277,59337,https://directory.tml.org/profile/city/771
+West Lake Hills,Travis,3252,84519,https://directory.tml.org/profile/city/607
+Beach City,Chambers,3230,89767,https://directory.tml.org/profile/city/28
+Grand Saline,Van Zandt,3219,59929,https://directory.tml.org/profile/city/1125
+Onalaska,Polk,3205,50827,https://directory.tml.org/profile/city/950
+Waller,Waller,3117,65437,https://directory.tml.org/profile/city/464
+Karnes City,Karnes,3112,48470,https://directory.tml.org/profile/city/999
+Bishop,Nueces,3101,59337,https://directory.tml.org/profile/city/1335
+Needville,Fort Bend,3091,98070,https://directory.tml.org/profile/city/922
+Piney Point Village,Harris,3075,63539,https://directory.tml.org/profile/city/1732
+Lytle,Atascosa,3052,57905,https://directory.tml.org/profile/city/856
+La Villa,Hidalgo,3004,44260,https://directory.tml.org/profile/city/1930
+Oak Ridge North,Montgomery,2995,87831,https://directory.tml.org/profile/city/940
+El Lago,Harris,2975,63539,https://directory.tml.org/profile/city/1274
+Poteet,Atascosa,2948,57905,https://directory.tml.org/profile/city/778
+Fairfield,Freestone,2901,48397,https://directory.tml.org/profile/city/1068
+Ferris,Ellis,2893,87698,https://directory.tml.org/profile/city/1076
+Wimberley,Hays,2890,79336,https://directory.tml.org/profile/city/280
+Taft,San Patricio,2869,58227,https://directory.tml.org/profile/city/700
+Brazoria,Brazoria,2840,82165,https://directory.tml.org/profile/city/1353
+Clarksville,Red River,2833,46134,https://directory.tml.org/profile/city/1182
+Van,Van Zandt,2816,59929,https://directory.tml.org/profile/city/1066
+Hallettsville,Lavaca,2733,54421,https://directory.tml.org/profile/city/1140
+Troy,Bell,2727,58878,https://directory.tml.org/profile/city/734
+Schulenburg,Fayette,2718,64711,https://directory.tml.org/profile/city/641
+Balcones Heights,Bexar,2711,63014,https://directory.tml.org/profile/city/1308
+Edcouch,Hidalgo,2693,44260,https://directory.tml.org/profile/city/400
+Godley,Johnson,2674,76226,https://directory.tml.org/profile/city/1113
+Westworth Village,Tarrant,2635,71399,https://directory.tml.org/profile/city/1735
+Palmhurst,Hidalgo,2590,44260,https://directory.tml.org/profile/city/1762
+West,McLennan,2575,58524,https://directory.tml.org/profile/city/1107
+Jonestown,Travis,2573,84519,https://directory.tml.org/profile/city/403
+Escobares,Starr,2572,33535,https://directory.tml.org/profile/city/28576
+Panorama Village,Montgomery,2528,87831,https://directory.tml.org/profile/city/746
+Daingerfield,Morris,2518,44957,https://directory.tml.org/profile/city/1224
+Hooks,Bowie,2494,52934,https://directory.tml.org/profile/city/959
+Combine,Kaufman,2475,73660,https://directory.tml.org/profile/city/1727
+El Cenizo,Webb,2451,50865,https://directory.tml.org/profile/city/1490
+Montgomery,Montgomery,2445,87831,https://directory.tml.org/profile/city/899
+Premont,Jim Wells,2429,43852,https://directory.tml.org/profile/city/782
+Trinity,Trinity,2417,46569,https://directory.tml.org/profile/city/731
+Gunter,Grayson,2400,62678,https://directory.tml.org/profile/city/1137
+Freer,Duval,2390,37921,https://directory.tml.org/profile/city/1658
+Nixon,Gonzales,2378,48164,https://directory.tml.org/profile/city/933
+Blue Mound,Tarrant,2331,71399,https://directory.tml.org/profile/city/1340
+Hedwig Village,Harris,2321,63539,https://directory.tml.org/profile/city/1155
+Overton,Rusk,2296,53186,https://directory.tml.org/profile/city/737
+Dalworthington Gardens,Tarrant,2271,71399,https://directory.tml.org/profile/city/1228
+Elmendorf,Bexar,2264,63014,https://directory.tml.org/profile/city/1275
+Odem,San Patricio,2250,58227,https://directory.tml.org/profile/city/942
+East Bernard,Wharton,2243,56522,https://directory.tml.org/profile/city/230
+Malakoff,Henderson,2243,50348,https://directory.tml.org/profile/city/860
+Tool,Henderson,2243,50348,https://directory.tml.org/profile/city/727
+Lyford,Willacy,2239,37087,https://directory.tml.org/profile/city/855
+Arcola,Fort Bend,2236,98070,https://directory.tml.org/profile/city/1293
+Pinehurst,Orange,2206,65908,https://directory.tml.org/profile/city/762
+Rio Hondo,Cameron,2176,46436,https://directory.tml.org/profile/city/808
+Shiner,Lavaca,2173,54421,https://directory.tml.org/profile/city/659
+Olmos Park,Bexar,2165,63014,https://directory.tml.org/profile/city/946
+George West,Live Oak,2159,52910,https://directory.tml.org/profile/city/1107
+Kountze,Hardin,2155,67183,https://directory.tml.org/profile/city/1016
+Roman Forest,Montgomery,2100,87831,https://directory.tml.org/profile/city/623
+Weimar,Colorado,2092,62004,https://directory.tml.org/profile/city/542
+Troup,Smith,2079,62903,https://directory.tml.org/profile/city/733
+Leonard,Fannin,2055,56794,https://directory.tml.org/profile/city/1043
+Huntington,Angelina,2051,50620,https://directory.tml.org/profile/city/968
+Bertram,Burnet,2016,72510,https://directory.tml.org/profile/city/1330
+Kirbyville,Jasper,2015,50038,https://directory.tml.org/profile/city/1013
+Little River-Academy,Bell,1996,58878,https://directory.tml.org/profile/city/1952
+Ganado,Jackson,1994,60666,https://directory.tml.org/profile/city/1100
+Shepherd,San Jacinto,1985,52302,https://directory.tml.org/profile/city/657
+Quitman,Wood,1983,53485,https://directory.tml.org/profile/city/792
+Cooper,Delta,1982,50329,https://directory.tml.org/profile/city/1204
+West Tawakoni,Hunt,1971,58326,https://directory.tml.org/profile/city/548
+Krugerville,Denton,1970,98027,https://directory.tml.org/profile/city/1927
+Anahuac,Chambers,1956,89767,https://directory.tml.org/profile/city/1283
+Waskom,Harrison,1933,56645,https://directory.tml.org/profile/city/537
+Grandview,Johnson,1904,76226,https://directory.tml.org/profile/city/1126
+Meadowlakes,Burnet,1901,72510,https://directory.tml.org/profile/city/1376
+San Augustine,San Augustine,1885,43335,https://directory.tml.org/profile/city/626
+Blanco,Blanco,1883,69247,https://directory.tml.org/profile/city/1336
+Beverly Hills,McLennan,1871,58524,https://directory.tml.org/profile/city/1331
+Splendora,Montgomery,1867,87831,https://directory.tml.org/profile/city/677
+Woodcreek,Hays,1852,79336,https://directory.tml.org/profile/city/1874
+Jefferson,Marion,1850,43178,https://directory.tml.org/profile/city/989
+Mart,McLennan,1846,58524,https://directory.tml.org/profile/city/419
+Southside Place,Harris,1845,63539,https://directory.tml.org/profile/city/675
+Johnson City,Blanco,1826,69247,https://directory.tml.org/profile/city/993
+Buffalo,Leon,1821,51582,https://directory.tml.org/profile/city/1368
+Sour Lake,Hardin,1821,67183,https://directory.tml.org/profile/city/671
+Linden,Cass,1814,42896,https://directory.tml.org/profile/city/1051
+Patton Village,Montgomery,1806,87831,https://directory.tml.org/profile/city/751
+Somerset,Bexar,1800,63014,https://directory.tml.org/profile/city/668
+Kemah,Galveston,1792,77627,https://directory.tml.org/profile/city/1004
+Yorktown,DeWitt,1789,54279,https://directory.tml.org/profile/city/577
+Lorena,McLennan,1780,58524,https://directory.tml.org/profile/city/847
+Itasca,Hill,1767,52495,https://directory.tml.org/profile/city/983
+Honey Grove,Fannin,1760,56794,https://directory.tml.org/profile/city/958
+Bayou Vista,Galveston,1756,77627,https://directory.tml.org/profile/city/1564
+Uhland,Hays,1751,79336,https://directory.tml.org/profile/city/1573
+Gregory,San Patricio,1731,58227,https://directory.tml.org/profile/city/1132
+Franklin,Robertson,1728,50816,https://directory.tml.org/profile/city/1087
+Lowry Crossing,Collin,1699,102119,https://directory.tml.org/profile/city/1516
+Goliad,Goliad,1683,58937,https://directory.tml.org/profile/city/1115
+Danbury,Brazoria,1662,82165,https://directory.tml.org/profile/city/1229
+Oak Leaf,Ellis,1651,87698,https://directory.tml.org/profile/city/1655
+Bartlett,Williamson,1613,96653,https://directory.tml.org/profile/city/1314
+Moody,McLennan,1601,58524,https://directory.tml.org/profile/city/900
+Newton,Newton,1593,44030,https://directory.tml.org/profile/city/931
+Charlotte,Atascosa,1575,57905,https://directory.tml.org/profile/city/1174
+Brookside Village,Brazoria,1573,82165,https://directory.tml.org/profile/city/1435
+Cottonwood Shores,Burnet,1557,72510,https://directory.tml.org/profile/city/585
+Hughes Springs,Cass,1549,42896,https://directory.tml.org/profile/city/966
+Three Rivers,Live Oak,1545,52910,https://directory.tml.org/profile/city/720
+Shoreacres,Harris,1524,63539,https://directory.tml.org/profile/city/660
+De Kalb,Bowie,1485,52934,https://directory.tml.org/profile/city/1235
+Quinlan,Hunt,1478,58326,https://directory.tml.org/profile/city/789
+Woodbranch,Montgomery,1476,87831,https://directory.tml.org/profile/city/569
+Grapeland,Houston,1475,45603,https://directory.tml.org/profile/city/1129
+Kerens,Navarro,1474,51015,https://directory.tml.org/profile/city/411
+Stockdale,Wilson,1467,78794,https://directory.tml.org/profile/city/687
+Bruceville-Eddy,McLennan,1450,58524,https://directory.tml.org/profile/city/1726
+Seven Points,Henderson,1432,50348,https://directory.tml.org/profile/city/651
+Rollingwood,Travis,1428,84519,https://directory.tml.org/profile/city/821
+Blossom,Lamar,1422,50787,https://directory.tml.org/profile/city/1339
+Plum Grove,Liberty,1422,57174,https://directory.tml.org/profile/city/1774
+Wolfe City,Hunt,1421,58326,https://directory.tml.org/profile/city/568
+Hubbard,Hill,1420,52495,https://directory.tml.org/profile/city/963
+Meridian,Bosque,1415,56041,https://directory.tml.org/profile/city/884
+Naples,Morris,1404,44957,https://directory.tml.org/profile/city/916
+Lone Star,Morris,1401,44957,https://directory.tml.org/profile/city/425
+Queen City,Cass,1394,42896,https://directory.tml.org/profile/city/788
+Ivanhoe,Tyler,1377,46955,https://directory.tml.org/profile/city/47876
+Palm Valley,Cameron,1376,46436,https://directory.tml.org/profile/city/1572
+Somerville,Burleson,1364,57469,https://directory.tml.org/profile/city/669
+Tatum,Rusk,1364,53186,https://directory.tml.org/profile/city/702
+Hawkins,Wood,1351,53485,https://directory.tml.org/profile/city/1150
+Emory,Rains,1344,57294,https://directory.tml.org/profile/city/1278
+Thorndale,Milam,1344,53320,https://directory.tml.org/profile/city/717
+Wallis,Austin,1341,68150,https://directory.tml.org/profile/city/534
+Nevada,Collin,1324,102119,https://directory.tml.org/profile/city/1730
+Rosebud,Falls,1318,46173,https://directory.tml.org/profile/city/825
+Old River-Winfree,Chambers,1312,89767,https://directory.tml.org/profile/city/945
+Natalia,Medina,1307,62907,https://directory.tml.org/profile/city/919
+Valley Mills,Bosque,1282,56041,https://directory.tml.org/profile/city/521
+China,Jefferson,1273,55575,https://directory.tml.org/profile/city/1178
+Brownsboro,Henderson,1270,50348,https://directory.tml.org/profile/city/45
+Clear Lake Shores,Galveston,1266,77627,https://directory.tml.org/profile/city/1185
+Kemp,Kaufman,1262,73660,https://directory.tml.org/profile/city/1005
+Gholson,McLennan,1239,58524,https://directory.tml.org/profile/city/120
+Rice,Navarro,1236,51015,https://directory.tml.org/profile/city/1519
+Kempner,Lampasas,1235,64401,https://directory.tml.org/profile/city/591
+La Vernia,Wilson,1233,78794,https://directory.tml.org/profile/city/1040
+Martindale,Caldwell,1225,60063,https://directory.tml.org/profile/city/1659
+La Grulla,Starr,1207,33535,https://directory.tml.org/profile/city/1928
+Blue Ridge,Collin,1199,102119,https://directory.tml.org/profile/city/1341
+Oyster Creek,Brazoria,1199,82165,https://directory.tml.org/profile/city/739
+Florence,Williamson,1196,96653,https://directory.tml.org/profile/city/1078
+Von Ormy,Bexar,1195,63014,https://directory.tml.org/profile/city/42012
+Cut and Shoot,Montgomery,1185,87831,https://directory.tml.org/profile/city/1599
+Granger,Williamson,1185,96653,https://directory.tml.org/profile/city/1127
+Orange Grove,Jim Wells,1185,43852,https://directory.tml.org/profile/city/735
+La Coste,Medina,1169,62907,https://directory.tml.org/profile/city/610
+Rio Vista,Johnson,1168,76226,https://directory.tml.org/profile/city/809
+Benavides,Duval,1160,37921,https://directory.tml.org/profile/city/32
+Ore City,Upshur,1155,51634,https://directory.tml.org/profile/city/736
+Eustace,Henderson,1150,50348,https://directory.tml.org/profile/city/1065
+Bogata,Red River,1087,46134,https://directory.tml.org/profile/city/1344
+Jamaica Beach,Galveston,1066,77627,https://directory.tml.org/profile/city/987
+Marion,Guadalupe,1066,80145,https://directory.tml.org/profile/city/867
+Ames,Liberty,1064,57174,https://directory.tml.org/profile/city/1437
+Southmayd,Grayson,1063,62678,https://directory.tml.org/profile/city/1809
+Riesel,McLennan,1058,58524,https://directory.tml.org/profile/city/1786
+Bevil Oaks,Jefferson,1045,55575,https://directory.tml.org/profile/city/35
+Daisetta,Liberty,1039,57174,https://directory.tml.org/profile/city/1225
+Hemphill,Sabine,1031,46233,https://directory.tml.org/profile/city/1156
+Seadrift,Calhoun,997,70662,https://directory.tml.org/profile/city/644
+Timpson,Shelby,996,43244,https://directory.tml.org/profile/city/723
+Lakeport,Gregg,987,57608,https://directory.tml.org/profile/city/1027
+New London,Rusk,976,53186,https://directory.tml.org/profile/city/929
+Maud,Bowie,973,52934,https://directory.tml.org/profile/city/873
+Calvert,Robertson,965,50816,https://directory.tml.org/profile/city/1377
+Tom Bean,Grayson,964,62678,https://directory.tml.org/profile/city/726
+Mustang Ridge,Travis,962,84519,https://directory.tml.org/profile/city/579
+New Waverly,Walker,956,43012,https://directory.tml.org/profile/city/932
+Arp,Smith,954,62903,https://directory.tml.org/profile/city/1296
+Waelder,Gonzales,948,48164,https://directory.tml.org/profile/city/532
+Hill Country Village,Bexar,946,63014,https://directory.tml.org/profile/city/421
+Maypearl,Ellis,942,87698,https://directory.tml.org/profile/city/1968
+East Mountain,Upshur,935,51634,https://directory.tml.org/profile/city/1261
+Omaha,Morris,935,44957,https://directory.tml.org/profile/city/949
+Centerville,Leon,932,51582,https://directory.tml.org/profile/city/1172
+Red Lick,Bowie,931,52934,https://directory.tml.org/profile/city/1505
+Groveton,Trinity,922,46569,https://directory.tml.org/profile/city/1679
+Pineland,Sabine,898,46233,https://directory.tml.org/profile/city/763
+East Tawakoni,Rains,883,57294,https://directory.tml.org/profile/city/1262
+Bremond,Robertson,872,50816,https://directory.tml.org/profile/city/1355
+New Summerfield,Cherokee,871,48664,https://directory.tml.org/profile/city/930
+Thrall,Williamson,861,96653,https://directory.tml.org/profile/city/719
+Trinidad,Henderson,856,50348,https://directory.tml.org/profile/city/730
+Coldspring,San Jacinto,854,52302,https://directory.tml.org/profile/city/70
+Redwater,Bowie,847,52934,https://directory.tml.org/profile/city/588
+Celeste,Hunt,843,58326,https://directory.tml.org/profile/city/1171
+Walnut Springs,Bosque,842,56041,https://directory.tml.org/profile/city/535
+Hardin,Liberty,828,57174,https://directory.tml.org/profile/city/1893
+Garrison,Nacogdoches,819,46970,https://directory.tml.org/profile/city/1103
+Hilshire Village,Harris,808,63539,https://directory.tml.org/profile/city/952
+Jewett,Leon,808,51582,https://directory.tml.org/profile/city/991
+Santa Clara,Guadalupe,807,80145,https://directory.tml.org/profile/city/470
+Trenton,Fannin,796,56794,https://directory.tml.org/profile/city/729
+Knollwood,Grayson,790,62678,https://directory.tml.org/profile/city/1672
+Clarksville City,Gregg,778,57608,https://directory.tml.org/profile/city/1183
+Point,Rains,777,57294,https://directory.tml.org/profile/city/903
+Valley View,Cooke,777,58060,https://directory.tml.org/profile/city/522
+Log Cabin,Henderson,771,50348,https://directory.tml.org/profile/city/583
+Ector,Fannin,770,56794,https://directory.tml.org/profile/city/1263
+Lone Oak,Hunt,742,58326,https://directory.tml.org/profile/city/427
+Beckville,Panola,737,54244,https://directory.tml.org/profile/city/30
+Savoy,Fannin,735,56794,https://directory.tml.org/profile/city/639
+Pecan Hill,Ellis,734,87698,https://directory.tml.org/profile/city/1737
+Joaquin,Shelby,730,43244,https://directory.tml.org/profile/city/992
+Weir,Williamson,720,96653,https://directory.tml.org/profile/city/1734
+Lakewood Village,Denton,706,98027,https://directory.tml.org/profile/city/1032
+Cumby,Hopkins,699,56680,https://directory.tml.org/profile/city/1223
+New Berlin,Guadalupe,699,80145,https://directory.tml.org/profile/city/924
+Burke,Angelina,697,50620,https://directory.tml.org/profile/city/51
+Mountain City,Hays,687,79336,https://directory.tml.org/profile/city/1988
+Agua Dulce,Nueces,678,59337,https://directory.tml.org/profile/city/1713
+Niederwald,Hays,673,79336,https://directory.tml.org/profile/city/1654
+Point Blank,San Jacinto,673,52302,https://directory.tml.org/profile/city/1531
+Surfside Beach,Brazoria,668,82165,https://directory.tml.org/profile/city/697
+Driscoll,Nueces,665,59337,https://directory.tml.org/profile/city/1252
+Golinda,Falls,657,46173,https://directory.tml.org/profile/city/121
+Simonton,Fort Bend,656,98070,https://directory.tml.org/profile/city/1805
+Lott,Falls,651,46173,https://directory.tml.org/profile/city/1174
+Bardwell,Ellis,650,87698,https://directory.tml.org/profile/city/26
+Beasley,Fort Bend,644,98070,https://directory.tml.org/profile/city/1319
+Sunset Valley,Travis,643,84519,https://directory.tml.org/profile/city/696
+New Chapel Hill,Smith,639,62903,https://directory.tml.org/profile/city/1999
+Frost,Navarro,636,51015,https://directory.tml.org/profile/city/1095
+Noonday,Smith,623,62903,https://directory.tml.org/profile/city/2004
+Cove,Chambers,612,89767,https://directory.tml.org/profile/city/1206
+Pattison,Waller,612,65437,https://directory.tml.org/profile/city/750
+Zavalla,Angelina,606,50620,https://directory.tml.org/profile/city/578
+Ingleside on the Bay,San Patricio,597,58227,https://directory.tml.org/profile/city/1358
+Lovelady,Houston,579,45603,https://directory.tml.org/profile/city/850
+Campbell,Hunt,571,58326,https://directory.tml.org/profile/city/58
+Point Comfort,Calhoun,570,70662,https://directory.tml.org/profile/city/769
+Cushing,Nacogdoches,569,46970,https://directory.tml.org/profile/city/83
+Colmesneil,Tyler,552,46955,https://directory.tml.org/profile/city/1196
+Appleby,Nacogdoches,551,46970,https://directory.tml.org/profile/city/16
+Riverside,Walker,551,43012,https://directory.tml.org/profile/city/811
+Roxton,Lamar,549,50787,https://directory.tml.org/profile/city/1794
+Deport,Lamar,547,50787,https://directory.tml.org/profile/city/93
+San Perlita,Willacy,542,37087,https://directory.tml.org/profile/city/1797
+Snook,Burleson,527,57469,https://directory.tml.org/profile/city/667
+Murchison,Henderson,523,50348,https://directory.tml.org/profile/city/913
+Brazos Country,Austin,518,68150,https://directory.tml.org/profile/city/281
+Falls City,Karnes,513,48470,https://directory.tml.org/profile/city/1070
+Liverpool,Brazoria,510,82165,https://directory.tml.org/profile/city/1057
+Star Harbor,Henderson,509,50348,https://directory.tml.org/profile/city/683
+Mount Enterprise,Rusk,507,53186,https://directory.tml.org/profile/city/1989
+Easton,Gregg,505,57608,https://directory.tml.org/profile/city/101
+Briaroaks,Johnson,502,76226,https://directory.tml.org/profile/city/43
+Pine Forest,Orange,502,65908,https://directory.tml.org/profile/city/761
+Fruitvale,Van Zandt,500,59929,https://directory.tml.org/profile/city/113
+Grey Forest,Bexar,493,63014,https://directory.tml.org/profile/city/430
+Talco,Titus,488,49513,https://directory.tml.org/profile/city/1821
+Hallsburg,McLennan,483,58524,https://directory.tml.org/profile/city/1141
+Plantersville[b],Grimes,483,52540,https://directory.tml.org/profile/city/84531
+Smiley,Gonzales,483,48164,https://directory.tml.org/profile/city/1807
+Nome,Jefferson,471,55575,https://directory.tml.org/profile/city/936
+Hawk Cove,Hunt,470,58326,https://directory.tml.org/profile/city/452
+Morgan,Bosque,462,56041,https://directory.tml.org/profile/city/902
+Union Grove,Upshur,461,51634,https://directory.tml.org/profile/city/1852
+Angus,Navarro,458,51015,https://directory.tml.org/profile/city/12
+Leary,Bowie,446,52934,https://directory.tml.org/profile/city/1042
+Union Valley,Hunt,441,58326,https://directory.tml.org/profile/city/35940
+Oglesby,Coryell,440,59718,https://directory.tml.org/profile/city/1634
+Creedmoor,Travis,434,84519,https://directory.tml.org/profile/city/81
+Winfield,Titus,418,49513,https://directory.tml.org/profile/city/1873
+Milano,Milam,417,53320,https://directory.tml.org/profile/city/1977
+San Patricio,San Patricio,413,58227,https://directory.tml.org/profile/city/1798
+Devers,Liberty,412,57174,https://directory.tml.org/profile/city/94
+Bedias,Grimes,380,52540,https://directory.tml.org/profile/city/240
+Chireno,Nacogdoches,373,46970,https://directory.tml.org/profile/city/1411
+Weston,Collin,370,102119,https://directory.tml.org/profile/city/1867
+Huxley,Shelby,362,43244,https://directory.tml.org/profile/city/973
+Leroy,McLennan,361,58524,https://directory.tml.org/profile/city/1045
+Abbott,Hill,359,52495,https://directory.tml.org/profile/city/1
+Edom,Van Zandt,356,59929,https://directory.tml.org/profile/city/1637
+Kendleton,Fort Bend,348,98070,https://directory.tml.org/profile/city/1887
+Sadler,Grayson,343,62678,https://directory.tml.org/profile/city/1796
+Reklaw,Cherokee,339,48664,https://directory.tml.org/profile/city/800
+Gary,Panola,338,54244,https://directory.tml.org/profile/city/1104
+Rose City,Orange,336,65908,https://directory.tml.org/profile/city/1791
+Gallatin,Cherokee,334,48664,https://directory.tml.org/profile/city/116
+Nordheim,DeWitt,334,54279,https://directory.tml.org/profile/city/937
+Scottsville,Harrison,334,56645,https://directory.tml.org/profile/city/1888
+Eureka,Navarro,333,51015,https://directory.tml.org/profile/city/1650
+Rose Hill Acres,Hardin,331,67183,https://directory.tml.org/profile/city/1792
+Iola,Grimes,330,52540,https://directory.tml.org/profile/city/39221
+Callisburg,Cooke,326,58060,https://directory.tml.org/profile/city/621
+Warren City,Gregg,322,57608,https://directory.tml.org/profile/city/536
+Orchard,Fort Bend,317,98070,https://directory.tml.org/profile/city/1759
+Mount Calm,Hill,301,52495,https://directory.tml.org/profile/city/907
+Coupland[b],Williamson,292,96653,https://directory.tml.org/profile/city/62580
+Ellinger[a],Fayette,290,64711,https://directory.tml.org/profile/city/100361
+Covington,Hill,289,52495,https://directory.tml.org/profile/city/1212
+Granjeno,Hidalgo,288,44260,https://directory.tml.org/profile/city/1486
+Coyote Flats[b],Johnson,285,76226,https://directory.tml.org/profile/city/49605
+Cranfills Gap,Bosque,282,56041,https://directory.tml.org/profile/city/1215
+Taylor Landing,Jefferson,281,55575,https://directory.tml.org/profile/city/32856
+Burton,Washington,280,66601,https://directory.tml.org/profile/city/1373
+Industry,Austin,277,68150,https://directory.tml.org/profile/city/1478
+Kennard,Houston,277,45603,https://directory.tml.org/profile/city/1921
+Goodrich,Polk,269,50827,https://directory.tml.org/profile/city/1117
+Morgan's Point,Harris,268,63539,https://directory.tml.org/profile/city/903
+Progreso Lakes,Hidalgo,262,44260,https://directory.tml.org/profile/city/1777
+North Cleveland,Liberty,255,57174,https://directory.tml.org/profile/city/2008
+Hays,Hays,249,79336,https://directory.tml.org/profile/city/1151
+Fayetteville,Fayette,244,64711,https://directory.tml.org/profile/city/1075
+Carmine,Fayette,243,64711,https://directory.tml.org/profile/city/1383
+Latexo,Houston,240,45603,https://directory.tml.org/profile/city/1941
+Spring Branch[b],Comal,233,93487,https://directory.tml.org/profile/city/76018
+Bailey,Fannin,231,56794,https://directory.tml.org/profile/city/24
+Barry,Navarro,230,51015,https://directory.tml.org/profile/city/27
+Wixon Valley,Brazos,229,50494,https://directory.tml.org/profile/city/1657
+Cottonwood,Kaufman,226,73660,https://directory.tml.org/profile/city/1487
+Sandy Point[b],Brazoria,217,82165,https://directory.tml.org/profile/city/188
+South Frydek[b],Austin,216,68150,https://directory.tml.org/profile/city/94128
+Anderson,Grimes,200,52540,https://directory.tml.org/profile/city/1477
+Ross,McLennan,200,58524,https://directory.tml.org/profile/city/1218
+La Ward,Jackson,192,60666,https://directory.tml.org/profile/city/1931
+Marquez,Leon,189,51582,https://directory.tml.org/profile/city/869
+Staples,Guadalupe,189,80145,https://directory.tml.org/profile/city/42006
+Midway,Madison,185,48251,https://directory.tml.org/profile/city/594
+Ravenna,Fannin,184,56794,https://directory.tml.org/profile/city/1549
+Pecan Gap,Delta,181,50329,https://directory.tml.org/profile/city/1731
+Goodlow,Navarro,176,51015,https://directory.tml.org/profile/city/122
+Leona,Leon,161,51582,https://directory.tml.org/profile/city/1949
+Moore Station,Henderson,161,50348,https://directory.tml.org/profile/city/1987
+Mobile City,Rockwall,154,120696,https://directory.tml.org/profile/city/1652
+Browndell,Jasper,153,50038,https://directory.tml.org/profile/city/46
+Kingsbury[b],Guadalupe,134,80145,https://directory.tml.org/profile/city/75903
+Todd Mission,Grimes,126,52540,https://directory.tml.org/profile/city/1841
+Austwell,Refugio,115,46695,https://directory.tml.org/profile/city/1302
+Aquilla,Hill,108,52495,https://directory.tml.org/profile/city/1290
+Toco,Lamar,92,50787,https://directory.tml.org/profile/city/1840
+Petronila,Nueces,84,59337,https://directory.tml.org/profile/city/1451
+Uncertain,Harrison,83,56645,https://directory.tml.org/profile/city/1851
+Sun Valley,Lamar,73,50787,https://directory.tml.org/profile/city/1820
+Seven Oaks,Polk,72,50827,https://directory.tml.org/profile/city/1802
+Dorchester,Grayson,62,62678,https://directory.tml.org/profile/city/97
+Dayton Lakes,Liberty,52,57174,https://directory.tml.org/profile/city/1232

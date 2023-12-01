@@ -11,13 +11,15 @@ def load_data(dir):
     return df
 
 
-valid_cities = load_data('accurate_income.csv')
-valid_cities = valid_cities.sort_values(by='municipality')
+valid_cities = load_data('pop_income_coor_links.csv')
+
+valid_cities = valid_cities.sort_values(by='Location')
+valid_cities = valid_cities[valid_cities.east_west == 'east']
 
 
 # define function for making map
 def make_map(df):
-    customdata = np.stack((df['municipality'], df['population_est_2022'], df['median_income_2014'], df['municipality_profile']),  axis=-1)
+    customdata = np.stack((df['Location'], df['Population'], df['Income'], df['municipality_profile']),  axis=-1)
     color_scale = [
         (0, 'blue'), # Blue for the lowest value
         (1, 'red') # Red for the highest value
@@ -26,9 +28,9 @@ def make_map(df):
                             lon=df['longitude'],
                             lat=df['latitude'],
                             zoom=5,
-                            color=df['median_income_2014'],
-                            text=df['municipality'],
-                            hover_data=['municipality_profile'],
+                            color=df['Income'],
+                            text=df['Location'],
+                            hover_data=['Population'],
                             color_continuous_scale=color_scale,
                             range_color=[40000, 55000]
     )
@@ -42,17 +44,17 @@ st.divider()
 
 median_income = st.slider('Median Income',  min_value=10000, max_value=55000, value=(10000, 55000), step=1000)
 
-temp_df = valid_cities.query(f'median_income_2014.between({median_income[0]}, {median_income[1]})')
+temp_df = valid_cities.query(f'Income.between({median_income[0]}, {median_income[1]})')
 
 fig = make_map(temp_df)
 st.plotly_chart(fig, use_container_width=True)
 
 
-cities = valid_cities.municipality.unique()
+cities = valid_cities.Location.unique()
 cities = sorted(np.append(cities, '(All Cities)'))
 selected_city = st.selectbox('Choose City', options=cities)
 
-temp_df = valid_cities[['municipality', 'population_est_2022', 'median_income_2014', 'municipality_profile']]
+temp_df = valid_cities[['Location', 'Population', 'Income', 'municipality_profile']]
 
 if selected_city != '(All Cities)':
     temp_df = temp_df[temp_df['municipality'] == selected_city]

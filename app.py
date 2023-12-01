@@ -57,7 +57,7 @@ selected_city = st.selectbox('Choose City', options=cities)
 temp_df = valid_cities[['Location', 'Population', 'Income', 'municipality_profile']]
 
 if selected_city != '(All Cities)':
-    temp_df = temp_df[temp_df['municipality'] == selected_city]
+    temp_df = temp_df[temp_df['Location'] == selected_city]
 
 st.data_editor(
     temp_df,

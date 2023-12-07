@@ -46,23 +46,38 @@ median_income = st.slider('Median Income',  min_value=10000, max_value=55000, va
 
 temp_df = valid_cities.query(f'Income.between({median_income[0]}, {median_income[1]})')
 
+map_plot = st.empty()
+
 fig = make_map(temp_df)
-st.plotly_chart(fig, use_container_width=True)
 
 
 cities = valid_cities.Location.unique()
 cities = sorted(np.append(cities, '(All Cities)'))
 selected_city = st.selectbox('Choose City', options=cities)
 
-temp_df = valid_cities[['Location', 'Population', 'Income', 'municipality_profile']]
+temp_df = valid_cities[['Location', 'Population', 'Income', 'municipality_profile', 'latitude', 'longitude']]
 
 if selected_city != '(All Cities)':
     temp_df = temp_df[temp_df['Location'] == selected_city]
 
 st.data_editor(
-    temp_df,
+    temp_df[['Location', 'Population', 'Income', 'municipality_profile']],
     column_config={
         "municipality_profile": st.column_config.LinkColumn("City Profile")
     },
     hide_index=True,
 )
+
+
+
+if len(temp_df) == 1:
+    latitude = temp_df.iloc[0]['latitude']
+    longitude = temp_df.iloc[0]['longitude']
+    with map_plot:
+            fig.update_layout(mapbox_center=dict(lat=latitude, lon=longitude), mapbox_zoom=10)
+            st.plotly_chart(fig, use_container_width=True)
+        
+else:
+    with map_plot:
+        st.plotly_chart(fig, use_container_width=True)
+        
